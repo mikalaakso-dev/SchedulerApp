@@ -1,14 +1,14 @@
 import { useState } from 'react'
 
 import './App.css'
-import AppointmentScheduler from './AppointmentScheduler'
+import AppointmentBooking from './AppointmentBooking'
 
 function App() {
-  
+ 
 
   return (
     <>
-     <AppointmentScheduler />
+    <AppointmentBooking />
     </>
   )
 }
